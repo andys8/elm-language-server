@@ -21,8 +21,8 @@
     "prebuild-install": "^5.3.0",
     "request": "^2.88.0",
     "rxjs": "^6.5.2",
-    "tree-sitter": "^0.14.0",
-    "tree-sitter-elm": "~2.2.4",
+    "tree-sitter": "0.15.8",
+    "tree-sitter-elm": "2.5.6",
     "vscode-languageserver": "^5.2.1",
     "vscode-uri": "^2.0.3",
     "ws": "^7.1.0"
